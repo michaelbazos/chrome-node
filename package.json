@@ -1,0 +1,24 @@
+{
+  "name": "chrome-node",
+  "version": "0.0.1",
+  "description": "Programmatically control Chrome browser from your Node programs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelbazos/chrome-node.git"
+  },
+  "keywords": [
+    "chrome",
+    "node",
+    "program"
+  ],
+  "author": "Michael Bazos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelbazos/chrome-node/issues"
+  },
+  "homepage": "https://github.com/michaelbazos/chrome-node#readme"
+}
