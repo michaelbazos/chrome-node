@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/michaelbazos/chrome-node/issues"
   },
-  "homepage": "https://github.com/michaelbazos/chrome-node#readme"
+  "homepage": "https://github.com/michaelbazos/chrome-node#readme",
+  "dependencies": {
+    "chrome-launcher": "^0.3.1",
+    "chrome-remote-interface": "^0.24.1"
+  }
 }
