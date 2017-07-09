@@ -23,4 +23,5 @@ const chrome = require('chrome-node');
 
 ## References
 
- - [Chrome Devtools Protocol](https://chromedevtools.github.io/devtools-protocol/)
+ - [Chrome Remote Interface](https://github.com/cyrus-and/chrome-remote-interface)
+ - [Chrome Devtools Protocol](https://chromedevtools.github.io/devtools-protocol)
